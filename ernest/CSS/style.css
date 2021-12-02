@@ -1,0 +1,61 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color:rgb(96, 206, 128);
+    font-weight: 700;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color:white;
+    font-weight: 700;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color:rgb(174, 173, 173);
+    font-weight: 600;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color:white;
+    font-weight: 600;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color:white;
+    font-weight: 600;
+}
+h6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color:rgb(96, 206, 128);
+    font-weight: 700;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+.btn-success{
+    color:rgb(96, 206, 128);
+}
+.btn-success:active{
+    color:rgb(96, 206, 128);
+}
+.btn-success:hover{
+    color:rgb(81, 187, 111);
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.navbar-custom {
+    background-color: rgb(96, 206, 128);
+}

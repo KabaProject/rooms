@@ -1,0 +1,138 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    
+    #title
+{
+  color: #1F1F1F;
+      text-align: center;
+      font-family: 'Vidaloka', serif;
+      font-size: 30px;
+      padding: 60px;
+}
+
+.nav-item a {
+  color: #395982;
+  font-family: 'Chicle', cursive;
+  font-size: 40px;
+  text-decoration: none;
+
+}
+
+
+
+
+.portfolio h1{
+        color: #F98882;
+      text-align: center;
+      font-family: 'Chicle', cursive;
+      font-size: 80px;
+      padding: 30px;
+    }
+    
+    .container h2{
+        color: #395982;
+      text-align: center;
+      font-family: 'Chicle', cursive;
+      font-size: 60px;
+      margin: 0px;
+      padding: 10px;
+    }
+
+    .socialmedia h2{
+      color: #395982;
+    text-align: center;
+    font-family: 'Chicle', cursive;
+    font-size: 50px;
+    margin: 0px;
+    padding: 10px;
+  }
+
+    h3{
+        color: #E98185;
+      text-align: center;
+      font-family: 'Chicle', cursive;
+      font-size: 52px;
+      margin: 0px;
+      padding: 10px;
+    }
+    h4{
+        color: #1F1F1F;
+      text-align: center;
+      font-family: 'Coiny', cursive;
+      font-size: 48px;
+      margin: 0px;
+      padding: 10px;
+    }
+
+    h5{
+        color: #1F1F1F;
+      text-align: center;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 32px;
+      margin: 0px;
+      padding: 10px;
+    }
+
+    p{
+      color: #1F1F1F;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 10px;
+  }
+
+  a:link, a:visited, a:active {
+    text-decoration:none;
+    
+}
+   a
+  {
+    font-family: 'Coiny', cursive;
+    color: #1F1F1F;
+    font-size: 48px;
+    text-align: center;
+    
+    
+  }
+
+
+    @media (min-width:240px )
+    {
+      .img {
+        max-width: 420px;
+        max-height: 420px;
+        min-width: 24px;
+      }
+
+    }
+
+    @media (min-width:420px )
+    {
+      .media {
+        max-width: 960px;
+      }
+
+    }
+
+    
+      .container-fluid{
+        height: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size:cover;
+        background-attachment:fixed;
+
+      }
+
+
+    iframe {
+      max-width: 100%;
+      max-height: 420px;
+      min-height: 320px;
+  }
+
